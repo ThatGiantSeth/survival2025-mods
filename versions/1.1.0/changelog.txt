@@ -1,46 +1,46 @@
---Added--
-Minecraft Comes Alive Reborn
-Sophisticated Backpacks
-Sophisticated Core
-EvilCraft
-Cyclops Core
-CC:C Bridge
-Create Railway Navigator
-Domestication Innovation
-Doggy Talents Next
-DTN Palette of Paws
-DTN Community Skins
-Better Compatibility Checker
+ADDED: 
+Minecraft Comes Alive Reborn, 
+Sophisticated Backpacks, 
+Sophisticated Core, 
+EvilCraft, 
+Cyclops Core, 
+CC:C Bridge, 
+Create Railway Navigator, 
+Domestication Innovation, 
+Doggy Talents Next, 
+DTN Palette of Paws, 
+DTN Community Skins, 
+Better Compatibility Checker | 
 
---Updated--
-L_ender's Cataclysm
-Minecraft Transit Railway
-Arthropod Phobia Expansions
-Botania
-Self Expression
-Warfare Wings
-Let's Do! Beachparty
-Let's Do! Vinery
-Ad Astra Giselle Addon
-Fusion
-Jade
-Let's Do! Bakery
-Let's Do! Candlelight
-Let's Do! Farm and Charm
-Reliquary
-Sound Physics Remastered
-Amendments
-Balm
-ModernFix
-Moonlight Lib
-More Delight
-Storage Drawers
-Xplus Autofish
+UPDATED: 
+L_ender's Cataclysm, 
+Minecraft Transit Railway, 
+Arthropod Phobia Expansions, 
+Botania, 
+Self Expression, 
+Warfare Wings, 
+Let's Do! Beachparty, 
+Let's Do! Vinery, 
+Ad Astra Giselle Addon, 
+Fusion, 
+Jade, 
+Let's Do! Bakery, 
+Let's Do! Candlelight, 
+Let's Do! Farm and Charm, 
+Reliquary, 
+Sound Physics Remastered, 
+Amendments, 
+Balm, 
+ModernFix, 
+Moonlight Lib, 
+More Delight, 
+Storage Drawers, 
+Xplus Autofish | 
 
---Removed--
-Wolves Backport + Terralith Compat
-Let Sleeping Dogs Lie
-iChunUtil
+REMOVED: 
+Wolves Backport + Terralith Compat, 
+Let Sleeping Dogs Lie, 
+iChunUtil | 
 
---Required Config Files--
+REQUIRED CONFIG: 
 Better Compatibility Checker (bcc-common.toml)
